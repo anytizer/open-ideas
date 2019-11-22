@@ -8,6 +8,11 @@ Things to learn:
 * Conjuncts
 * Diacritics
 * Ligatures
+* Numerals
 * Symbols
 
 If something works in Sanskrit, it is likely to work in many other languages that use Devanagari Scripts.
+
+References:
+
+ * Nepali Speech
