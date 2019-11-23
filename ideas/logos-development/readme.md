@@ -2,5 +2,5 @@ Special logos development.
 
 * Little text
 * Little graphic/icons
-* Taglines
-* Colors
+* Tag line
+* Colors selection
