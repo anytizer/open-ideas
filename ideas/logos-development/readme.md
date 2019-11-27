@@ -4,3 +4,4 @@ Special logos development.
 * Little graphic/icons
 * Tag line
 * Colors selection
+* Logo explaination
