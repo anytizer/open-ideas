@@ -1,5 +1,5 @@
 # open-ideas
-Project ideas open to everyone
+Project ideas open to everyone.
 
 * Are you a prototype-ist?
 * Are you a software developer?

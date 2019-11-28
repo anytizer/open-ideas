@@ -1,7 +1,12 @@
 Special logos development.
 
 * Little text
-* Little graphic/icons
+* Little graphic artwork/icons
 * Tag line
 * Colors selection
-* Logo explaination
+* Logo explanation
+
+
+References:
+
+* [aaa-logo](https://www.aaa-logo.com/)
