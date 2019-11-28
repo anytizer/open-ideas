@@ -16,3 +16,5 @@ If something works in Sanskrit, it is likely to work in many other languages tha
 References:
 
  * [Nepali Speech](https://nepalispeech.com/)
+ * [Devanagari Tools](https://github.com/anytizer/devanagari-tools)
+
