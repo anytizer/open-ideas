@@ -9,5 +9,8 @@ Considerations:
 Experts are not looking for questions voluntarily, nor they have enough time to scan though the questions.
 Hence, an admin/classifier in the middle manages the questions and answering.
 
-Avoid generic questions.
+Avoid too generic questions.
+Only approved questions will be answered.
+Answers are subject to build knowledge.
+
 Anyone subscribed to the category can review the discussions.
