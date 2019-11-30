@@ -1,4 +1,4 @@
-﻿Chhanda (छन्द) identification of a text.
+﻿# Chhanda (छन्द) identification of a text.
 
 List of available chhandas, and their variations.
 How to pick words for poetry.
@@ -8,14 +8,14 @@ Basic Formula for गण:
     ya maa taa raa ja bhaa na sa la gaa:
      I  S   S   S  I   S   I  I   I  S
 
-    ya   = ISS
-    maa  = SSS
-    taa  = SSI
-    raa  = SIS
-    ja   = ISI
-    bhaa = SII
-    na   = III
-    sa   = IIS
+    ya   = ISS (यमाता)
+    maa  = SSS (मातारा)
+    taa  = SSI (तारज)
+    raa  = SIS (राजभा)
+    ja   = ISI (जभान)
+    bhaa = SII (भानसा)
+    na   = III (नसल)
+    sa   = IIS (सलगा)
 
 List of chhandas:
 
@@ -64,6 +64,7 @@ Bhaab - sequence
     - https://youtu.be/5tWLbp3SST4?t=22
     - https://youtu.be/VdFDdy_O4pw
 * मन्दाक्रान्ता छन्द
+* Manaharan (Kabitwa)
 * मालिनी छन्द
     - https://youtu.be/bFANxpdfkjA?t=428
     - https://youtu.be/TAuj9bGgvqs?t=23
@@ -72,6 +73,7 @@ Bhaab - sequence
 * Reet
     - https://youtu.be/7fzARKV9FTU
 * रूपमाला / मदन छन्द 
+* Banshastha
 * वसन्ततिलका छन्द
     - https://youtu.be/IT1vKjQm9XE
 * विद्युन्माला छन्द
@@ -88,17 +90,30 @@ Bhaab - sequence
     - Ya Ya Ya Ya
 
 * Bhajan
+    - [Krishna Bhajan](https://youtu.be/wkyVlUOiYMw)
+* Khainjadee
+    - [लोक खैंजडी भजन](https://youtu.be/fmhz7D7rpHk)
 * Chutka
 * Bahar
+* Silok
+    - [Nepali Silok](https://youtu.be/W5jwlyvDCIA)
+* Ghasee Geet
+    - [Ghase geet](https://youtu.be/yD5eSBK0ZrU)
+    - [Ghumeko Kapal](https://youtu.be/0wcSQtbpC6c)
 
-* मात्रिक छन्‍द
-* वार्णिक छन्द
+* [मात्रिक छन्‍द] (https://youtu.be/B4iouTSrgHg?t=174)
+* [वार्णिक छन्द] (https://youtu.be/upeNUDQPk8Q)
+    - https://youtu.be/upeNUDQPk8Q?t=290
+    - 9 types
 * मुक्तक
 
 Unclassified yet:
 
 * सम छन्द
 * अर्धसम छन्द
+
+* [छंद । चौपाई । दोहा । रोला । गीतिका । हरिगीतिका । सोरठा । बरवै । उल्लाला](https://youtu.be/1-kH0jLsQYQ)
+* [रोला, दोहा, सोरठा, कुण्डलिया, चौपाई, हरिगीतिका](https://youtu.be/4ZWszgAMkaA)
 
 * [Rupak Alankar](https://youtu.be/aLDtrfdgV04)
 * [Chhusi](https://youtu.be/Tw3uvCcVtzI)
