@@ -45,6 +45,7 @@ Bhaab - sequence
     - [श्रीअर्चिरादिमार्ग वर्णन भाग २](https://youtu.be/4WIlBiWasWo)
 * अनुष्टुप छन्द
     - https://youtu.be/_8u504sXLtU
+    - Geeta?
 * इन्द्रवज्रा छन्द
     - https://youtu.be/FMr-vo77Zbc?t=92
     - https://youtu.be/LeqI16KSHtw?t=1346
@@ -64,6 +65,8 @@ Bhaab - sequence
     - https://youtu.be/VdFDdy_O4pw
 * मन्दाक्रान्ता छन्द
 * मालिनी छन्द
+    - https://youtu.be/bFANxpdfkjA?t=428
+    - https://youtu.be/TAuj9bGgvqs?t=23
 * मोहनी छन्द
 * यती छन्द
 * Reet
@@ -73,6 +76,8 @@ Bhaab - sequence
     - https://youtu.be/IT1vKjQm9XE
 * विद्युन्माला छन्द
 * शार्दूलविक्रीडित छन्द
+    - https://youtu.be/m-CAYh-LzSU
+    - https://youtu.be/TOtRu983wek
 * शीखरिणी छन्द
 * स्रग्धरा छन्द
 * स्रग्विणी छन्द
