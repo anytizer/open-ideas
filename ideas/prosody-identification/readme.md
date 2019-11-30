@@ -44,6 +44,7 @@ Bhaab - sequence
     - [महा भूकम्पको समय](https://youtu.be/aCn4mC7coBc?t=163)
     - [श्रीअर्चिरादिमार्ग वर्णन भाग २](https://youtu.be/4WIlBiWasWo)
 * अनुष्टुप छन्द
+    - https://youtu.be/_8u504sXLtU
 * इन्द्रवज्रा छन्द
     - https://youtu.be/FMr-vo77Zbc?t=92
     - https://youtu.be/LeqI16KSHtw?t=1346
@@ -69,6 +70,7 @@ Bhaab - sequence
     - https://youtu.be/7fzARKV9FTU
 * रूपमाला / मदन छन्द 
 * वसन्ततिलका छन्द
+    - https://youtu.be/IT1vKjQm9XE
 * विद्युन्माला छन्द
 * शार्दूलविक्रीडित छन्द
 * शीखरिणी छन्द
