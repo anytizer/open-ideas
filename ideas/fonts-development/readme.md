@@ -1,4 +1,4 @@
-Develop special kinds of fonts and calligraphy.
+Develop fonts and calligraphy.
 
 References:
 

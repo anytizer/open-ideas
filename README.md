@@ -12,3 +12,6 @@ Optionally, please let me know the idea that you have picked, so that in the fut
 Thank you for your understanding.
 
 If you have anything to suggest, improve on these ideas, please do.
+
+## Disclaimer
+The linking of the projects are not of commercial values at the 

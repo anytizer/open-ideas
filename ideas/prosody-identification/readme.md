@@ -63,8 +63,10 @@ Bhaab - sequence
     - III SII SII SIS
     - https://youtu.be/5tWLbp3SST4?t=22
     - https://youtu.be/VdFDdy_O4pw
+* पञ्चचामर छन्द
+    - https://youtu.be/TOtRu983wek
 * मन्दाक्रान्ता छन्द
-* Manaharan (Kabitwa)
+* Manaharan (Kabitwa)छन्द
 * मालिनी छन्द
     - https://youtu.be/bFANxpdfkjA?t=428
     - https://youtu.be/TAuj9bGgvqs?t=23
@@ -79,7 +81,7 @@ Bhaab - sequence
 * विद्युन्माला छन्द
 * शार्दूलविक्रीडित छन्द
     - https://youtu.be/m-CAYh-LzSU
-    - https://youtu.be/TOtRu983wek
+    * [Naroyeko Kunai Dina](https://youtu.be/PgvGpBZ6dlw)
 * शीखरिणी छन्द
 * स्रग्धरा छन्द
 * स्रग्विणी छन्द
@@ -100,14 +102,20 @@ Bhaab - sequence
 * Ghasee Geet
     - [Ghase geet](https://youtu.be/yD5eSBK0ZrU)
     - [Ghumeko Kapal](https://youtu.be/0wcSQtbpC6c)
+    - [घाँसे जोडी](https://youtu.be/8TNovfbo8Xg)
 
 * [मात्रिक छन्‍द] (https://youtu.be/B4iouTSrgHg?t=174)
 * [वार्णिक छन्द] (https://youtu.be/upeNUDQPk8Q)
     - https://youtu.be/upeNUDQPk8Q?t=290
     - 9 types
 * मुक्तक
+* Gajal / Ghazal
+    - [औँशीमा जूनको गीत](https://youtu.be/Y8Huzgaq7ZQ)
 
 Unclassified yet:
+
+विवाह ख्याली
+    - [विवाह ख्याली लोकभाका](https://youtu.be/UAlLsQ0DST4)
 
 * सम छन्द
 * अर्धसम छन्द

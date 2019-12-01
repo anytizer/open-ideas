@@ -5,3 +5,5 @@ Water tank filler
 Water level monitor
 Night lights
 Staircase lights
+Christmas Lights
+Animated Lights
