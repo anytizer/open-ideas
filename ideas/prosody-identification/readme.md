@@ -1,4 +1,7 @@
-﻿# Chhanda (छन्द) identification of a text.
+﻿# Chhanda (छन्द) identification
+
+Input a text.
+Reverse identify the meter, chhanda - on which it is written as.
 
 List of available chhandas, and their variations.
 How to pick words for poetry.
@@ -36,6 +39,11 @@ Artha - meaning
 Bhaab - sequence
 
 * झ्याउरे (jhyaaure) छन्द : [Muna Madan मुनामदन](https://en.wikipedia.org/wiki/Muna_Madan)
+    - 16 letters: { 3 + 2 + 3 + 2 + 3 + 3 = 16 }
+    - https://youtu.be/tltqkSVw5h4?t=1000
+    - Haata kaa maila ...
+    - Nepali haamee rahaunlaa kahaa...
+    - Hundaina Bihaan Mirmire ma
 * सबाई (sabaai / gitee) छन्द
     - [अर्जुनगीताको सबाई](https://youtu.be/Onfm_UY-Jic)
     - https://youtu.be/kwSKmerLb2U
@@ -55,16 +63,19 @@ Bhaab - sequence
 * उपजाति छन्द
 * उपेन्द्रवज्रा छन्द
 	- https://youtu.be/FMr-vo77Zbc?t=333
-* तोतक छन्द (totak) = { sa sa sa sa }
+* तोटक छन्द (totak) = { sa sa sa sa }
     - Ati sundar manav jivan yo, ajha sundar parne kaso gari ho
     - Chapala abalaharu ek sura ma, ... Amarawati Kantipuri Nagari
+    - https://youtu.be/djxJ4RC2beQ?t=821
+    - Stop at 6th letter
 * द्रूतविलम्बित छन्द
     - Na - Bha - Bha - Ra
     - III SII SII SIS
     - https://youtu.be/5tWLbp3SST4?t=22
     - https://youtu.be/VdFDdy_O4pw
 * पञ्चचामर छन्द
-    - https://youtu.be/TOtRu983wek
+    - [Briddha Balak](https://youtu.be/TOtRu983wek)
+    - [Briddha Balak](https://youtu.be/mQDzPDZvZl0)
 * मन्दाक्रान्ता छन्द
 * Manaharan (Kabitwa)छन्द
 * मालिनी छन्द
@@ -87,9 +98,11 @@ Bhaab - sequence
 * स्रग्विणी छन्द
     - Ra Ra Ra Ra
     - SIS SIS SIS SIS
-    - https://youtu.be/_pV_TA5Han4?t=993
+    - https://youtu.be/_pV_TA5Han4?t=965
 * [भुजंगप्रयात छन्द](https://youtu.be/yB4z2JTu-nk?t=825)
     - Ya Ya Ya Ya
+    - https://youtu.be/4P2pQ0qs2AE?t=150
+    - https://youtu.be/yB4z2JTu-nk?t=809
 
 * Bhajan
     - [Krishna Bhajan](https://youtu.be/wkyVlUOiYMw)
@@ -122,6 +135,7 @@ Unclassified yet:
 
 * [छंद । चौपाई । दोहा । रोला । गीतिका । हरिगीतिका । सोरठा । बरवै । उल्लाला](https://youtu.be/1-kH0jLsQYQ)
 * [रोला, दोहा, सोरठा, कुण्डलिया, चौपाई, हरिगीतिका](https://youtu.be/4ZWszgAMkaA)
+    - रोला: 11 + 13 = 24
 
 * [Rupak Alankar](https://youtu.be/aLDtrfdgV04)
 * [Chhusi](https://youtu.be/Tw3uvCcVtzI)

@@ -17,4 +17,3 @@ References:
 
  * [Nepali Speech](https://nepalispeech.com/)
  * [Devanagari Tools](https://github.com/anytizer/devanagari-tools)
-

@@ -7,7 +7,7 @@ Project ideas open to everyone.
 * Are you a student?
 
 Just pick up one of the ideas from my list and start developing yourself.
-Optionally, please let me know the idea that you have picked, so that in the future, I can manage what is happening to the ideas, and even link them back to your projects.
+Optionally, please let me know the idea that you have picked, so that in the future, I can manage what is happening to my open ideas, and even link them back to your projects.
 
 Thank you for your understanding.
 

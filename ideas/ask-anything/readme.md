@@ -1,4 +1,4 @@
-# Ask A`nything
+# Ask Anything
 
 Raise a question by a registered member of the community.
 Classify the question.
