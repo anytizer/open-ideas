@@ -1,6 +1,8 @@
-# Yellowpages
+# YellowPages
 
 Spam free self registration for yellow pages listing.
+
+![YellowPages Logo](logo.png)
 
 * Manage categories and subcategories properly.
 * Tag geolocation of a business address and corporate information.

@@ -92,6 +92,7 @@ Bhaab - sequence
 * विद्युन्माला छन्द
 * शार्दूलविक्रीडित छन्द
     - https://youtu.be/m-CAYh-LzSU
+    - [Daibi Bipatti](https://youtu.be/fv3Mi2fH-EE)
     * [Naroyeko Kunai Dina](https://youtu.be/PgvGpBZ6dlw)
 * शीखरिणी छन्द
 * स्रग्धरा छन्द

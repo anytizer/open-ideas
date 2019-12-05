@@ -1,6 +1,8 @@
 # open-ideas
 Project ideas open to everyone.
 
+![Logo](logo.png)
+
 * Are you a prototype-ist?
 * Are you a software developer?
 * Are you looking for some project ideas?
