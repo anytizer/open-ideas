@@ -1,4 +1,6 @@
-Special logos development.
+# Logo Development
+
+![Logo](logo.png)
 
 * Little text
 * Little graphic artwork/icons
