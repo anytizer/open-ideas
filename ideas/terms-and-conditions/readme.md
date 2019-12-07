@@ -3,6 +3,8 @@
 The terms and conditions documents change as the business grows.
 A corporate may want to inform its members about the change.
 
+![Logo](logo.png)
+
 * Version the TnC Documents.
 * Which version was agreed by the customer.
 * If TnC changed, request the customer to agree new version.

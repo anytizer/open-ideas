@@ -1,5 +1,7 @@
 # Fonts Development
 
+![Logo](logo.png)
+
 * Develop fonts and calligraphy.
 * Scan an art
 * Trace the art

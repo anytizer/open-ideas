@@ -1,9 +1,11 @@
 # Document Archiving
 
-Upload any number of documents.
-Classify with date/time stamp.
-Classify with user tags.
-Classify with context.
+![Logo](logo.png)
+
+* Upload any number of documents.
+* Classify with date/time stamp.
+* Classify with user tags.
+* Classify with context.
 
 ## Usage examples:
 * List of bills.

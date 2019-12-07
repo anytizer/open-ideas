@@ -7,7 +7,7 @@ This will be responsible to be stand alone service which can be used as an embed
 ## API Driven Development
 Let the full service be mananaged remotely through an API Gateway.
 
-## Basio Features
+## Basic Features
 * User registration
 * User confirmation
 * User login
@@ -15,6 +15,6 @@ Let the full service be mananaged remotely through an API Gateway.
 * Subscriptions and payment management
 * Change password
 * View log activity
-* Temorarily disable the login
+* Temporarily disable the login
 * Wipeout the user data (Provide a user the right to be forgotten)
 * Logout

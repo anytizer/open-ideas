@@ -1,4 +1,6 @@
-# Home automation
+# Home Automation
+
+![Logo](logo.png)
 
 * Decorative lights
 * Water tank filler

@@ -2,8 +2,10 @@
 
 Produce training videos.
 
-* Syllabus Development.
-* Videos Development.
+![Training Videos](logo.png)
+
+* Syllabus Development
+* Videos Development
 * Marketing
 
-If a level video is passed, then only can access to higher level video.
+If a level video is passed, then only one can access to higher level video.

@@ -3,6 +3,8 @@
 Input a text.
 Reverse identify the meter, chhanda - on which it is written as.
 
+![Logo](logo.png)
+
 List of available chhandas, and their variations.
 How to pick words for poetry.
 
