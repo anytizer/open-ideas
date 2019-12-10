@@ -2,9 +2,13 @@
 
 ![Logo](logo.png)
 
-* Decorative lights
-* Water tank filler
-* Water level monitor
+* Decorative Lights
+    - animated
+    - multi colored
+    - multi patterned
+* Water Tank Filler
+    - water level monitor
+    - water motor on/off
 * Night lights
 * Staircase lights
 * Christmas Lights
