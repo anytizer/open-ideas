@@ -8,4 +8,5 @@ Produce training videos.
 * Videos Development
 * Marketing
 
-If a level video is passed, then only one can access to higher level video.
+If a low level video is passed/viewed,
+then only one can access to higher level video.

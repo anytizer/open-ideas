@@ -12,3 +12,4 @@ Mentee wants to learn something from a mentor and orients the discussion.
 Mentor provides a comfortable timing to communicate.
 
 Graduate a mentee after few classes are completed.
+Recommend a mentee for job seeking purposes or any useful purposes.

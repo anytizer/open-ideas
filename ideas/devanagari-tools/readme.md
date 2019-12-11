@@ -11,7 +11,7 @@ Examples:
 
 Click to Type - an interface to input in Devanagari.
 
-C# based Barhakhari Sounds.
+C# based Barhakhari of Sounds.
 
 ## Link Back
 * [Devanagari Tools](https://github.com/anytizer/devanagari-tools)

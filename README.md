@@ -1,5 +1,5 @@
 # open-ideas
-Project ideas open to everyone.
+Project ideas open to everyone (developers).
 
 ![Logo](logo.png)
 
@@ -9,11 +9,8 @@ Project ideas open to everyone.
 * Are you a student?
 
 Just pick up one of the ideas from my list and start developing yourself.
-Optionally, please let me know the idea that you have picked, so that in the future, I can manage what is happening to my open ideas. And even link them back to your project.
+Optionally, please let me know the idea that you have picked up,
+so that in the future, I can manage what is happening to my open ideas.
+And even link them back to your project.
 
-Thank you for your understanding.
-
-If you have anything to suggest, improve on these ideas, please do.
-
-## Disclaimer
-The linking of the projects are not of commercial values.
+If you have anything to suggest, add or improve on these ideas; please do.

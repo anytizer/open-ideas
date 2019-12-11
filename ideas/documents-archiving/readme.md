@@ -10,8 +10,7 @@
 ## Usage examples:
 * List of bills.
 * List of invoices.
-* List of documents.
-
+* List of other documents.
 
 ## Auto Provisions
 * Provide a universally unique identity number to the document uploaded.
@@ -21,6 +20,6 @@
 ## Limits
 Prevent the overage of server side resources by forcing various limits.
 
-Limit the file size upload.
-Limit number of documents per day.
-Total limits.
+* Limit the file size upload.
+* Limit number of documents per day.
+* Total limits.

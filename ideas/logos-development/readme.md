@@ -8,7 +8,6 @@
 * Colors selection
 * Logo explanation
 
-
-References:
+## References:
 
 * [aaa-logo](https://www.aaa-logo.com/)
