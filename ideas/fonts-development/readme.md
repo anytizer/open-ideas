@@ -3,9 +3,9 @@
 ![Logo](logo.png)
 
 * Develop fonts and calligraphy.
-* Scan an art
-* Trace the art
-* Create a font
+* Scan an art.
+* Trace the art.
+* Create a font.
 
 References:
 
