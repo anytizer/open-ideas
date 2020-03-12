@@ -1,4 +1,6 @@
-mustify - force reading something
+![Logo](logo.png)
+
+# mustify - force rea something
 before accessing the parts of a software or website
 
 design software app to make sure subscribers read it first. eg. Terms and Conditions, Privacy Policy etc.
