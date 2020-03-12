@@ -1,14 +1,15 @@
 ![Logo](logo.png)
 
-# mustify - force rea something
-before accessing the parts of a software or website
+# mustify - force read something
+Show a must-read content before accessing any parts of a software or website.
 
-design software app to make sure subscribers read it first. eg. Terms and Conditions, Privacy Policy etc.
+Design software application or plugin to make sure subscribers read it first.
+eg. Terms and Conditions, Privacy Policy etc.
 
 Readers cannot manage to skip.
 Readers cannot deny that text was not reached.
 
-flag all subscribers to articles they read.
+Flag the user who read the mustified contents.
 
-helps to spread out rules n regulations. eg. within an office.
-Or, notifies something happened
+Helps to spread out rules n regulations. eg. within an office.
+Or, notifies something happened.
