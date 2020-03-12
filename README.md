@@ -14,3 +14,5 @@ so that in the future, I can manage what is happening to my open ideas.
 And even link them back to your project.
 
 If you have anything to suggest, add or improve on these ideas; please do.
+
+[![Mustify](mustify-plugin/logo.png)](mustify-plugin/readme.md)
