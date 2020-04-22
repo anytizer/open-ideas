@@ -13,6 +13,12 @@ Optionally, please let me know the idea that you have picked up,
 so that in the future, I can manage what is happening to my open ideas.
 And even link them back to your project.
 
+## Purpose
+The purpose of the project is to supply:
+* Open Idea
+* Logo
+* Project Description
+
 If you have anything to suggest, add or improve on these ideas; please do.
 
 [![Idea Logo](ideas/account-management/logo.png)](ideas/account-management/readme.md)
