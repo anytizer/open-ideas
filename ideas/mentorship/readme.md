@@ -13,3 +13,6 @@ Mentor provides a comfortable timing to communicate.
 
 Graduate a mentee after few classes are completed.
 Recommend a mentee for job seeking purposes or any useful purposes.
+
+## References:
+- [krinjal](https://requestmentor.com/krinjal/2020/04/08/why-what-krinjal-menthorship.html)
