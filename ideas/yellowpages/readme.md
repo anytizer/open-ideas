@@ -16,5 +16,10 @@ Spam free self registration for listing in yellow pages.
 * Renew the service by N days from now, not from current expiry date.
 * Disable double renewal.
 
-Experts listing.
-Experts searching.
+## Interface design
+Mobile app interface.
+
+## Reaching experts
+* Experts listing.
+* Experts searching.
+* Experts contacts.
