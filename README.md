@@ -19,6 +19,8 @@ The purpose of the project is to supply:
 * Logo
 * Project Description
 
+Wireframes are available separately at [Wireframes project](https://github.com/anytizer/wireframes.pencil).
+
 If you have anything to suggest, add or improve on these ideas; please do.
 
 [![Idea Logo](ideas/account-management/logo.png)](ideas/account-management/readme.md)
